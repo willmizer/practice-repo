@@ -1,6 +1,6 @@
-# Practice Activity for Intro to DS
+# Practice Activity: Markdown and GitHub
 
-**Introduction to Data Science** Course. 
+**Foundations of Data Analytics** Course. 
 
 Classwork (CW) activity: _Practicing git commands and Markdown._
 
@@ -17,4 +17,4 @@ _This is an introductory exercise to practice your Markdown and git skills. Make
 
 ***
 
-> **Introduction to Data Science**
+> **Foundations of Data Analytics**
