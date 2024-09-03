@@ -1,27 +1,27 @@
-## First Name Last Name
+## Will Mizer
 
-### Term Year 
+### 2024
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calc/Trig
 
-- Course 2
+- Intro to Data analytics
 
-- Course 3
+- Issues in data science
 
-- Course 4
+- Investing analysis
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Data science
 
-- Thing 2
+- Turtles
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/09/03
