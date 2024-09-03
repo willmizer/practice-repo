@@ -20,7 +20,7 @@ I am _passionate about_:
 
 - Turtles
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- R programming
 
 ***
 
